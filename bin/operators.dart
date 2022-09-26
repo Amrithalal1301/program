@@ -74,6 +74,7 @@ void main() {
 print("______________________________________________");
 
   print("ternary operator");
+
   ///syntax ----- condition ? true statement : false statement;
 
   int age =20;
